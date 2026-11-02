@@ -27,7 +27,3 @@ Stack: React · Node.js · PostgreSQL
 One sentence on what it does and the problem it solves.
 Stack: JavaScript · Express · MongoDB
 
----
-
-## 📫 Connect with me
-- 📧 Email: joselinekiptalam@gmail.com@example.com
