@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Joseline 👋
 
-<!--
-**joselinekiptalam-c/joselinekiptalam-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer, building web applications end to end.
 
-Here are some ideas to get you started:
+I work across the stack — from responsive frontends to APIs and databases — and I care about shipping clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+Frontend: React · JavaScript · TypeScript · HTML5 · CSS3
+Backend: Node.js · Express
+Database: PostgreSQL · MongoDB
+Tools & DevOps: Git · GitHub · Docker · REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+> Replace these with your real projects as you add them.
+
+### [Project Name](https://github.com/joselinekiptalam-c/REPO-NAME)
+One sentence on what it does and the problem it solves.
+Stack: React · Node.js · PostgreSQL
+
+### [Project Name](https://github.com/joselinekiptalam-c/REPO-NAME)
+One sentence on what it does and the problem it solves.
+Stack: JavaScript · Express · MongoDB
+
+---
+
+## 📫 Connect with me
+- 📧 Email: joselinekiptalam@gmail.com@example.com
